@@ -17,9 +17,9 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a href="https://www.youtube.com/breno.goncalves.silva@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red" target="_blank"></a>
+  <a href="https://www.youtube.com/breno.goncalves.silva@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=whit" target="_blank"></a>
   <a href="https://instagram.com/breno.goncalves.silva@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/SmartShit(Breno)#8641" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=red" target="_blank"></a> 
+ <a href="https://discord.gg/SmartShit(Breno)#8641" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whit" target="_blank"></a> 
   <a href = "mailto: breno.goncalves.silva@escola.pr.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
